@@ -267,6 +267,17 @@ button:hover {
 
 }
 
+.parallax6 {
+  background-image: url("file:///Users/tiffanychen/Desktop/Web%20Portfolio/Pictures/picture2.jpg");
+
+  height: 75%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
 .parallax4 {
   background-image: url("https://pbs.twimg.com/media/EIp1xzbW4AE6w2b?format=jpg&name=4096x4096");
 
