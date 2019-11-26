@@ -178,6 +178,13 @@ h3 {
    font-family: 'Poiret One', cursive;
  }
 
+ h4 {
+	 text-align: center;
+   font-size: 3.3em;
+   color: #a3a7c7;
+   font-family: 'Bungee Hairline', cursive;
+ }
+
 .portfolio {
   width:50%;
 }
@@ -201,7 +208,7 @@ h3 {
 
 #font2{
   color:#a6acb3;
-  font-size:1.1em;
+  font-size:1.3em;
   font-family: 'Poiret One', cursive;
 }
 
@@ -299,6 +306,8 @@ button:hover {
   background-size: cover;
 
 }
+
+
 
 
 .info{
