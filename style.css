@@ -307,6 +307,29 @@ button:hover {
 
 }
 
+.parallax7 {
+  background-image: url("https://pbs.twimg.com/media/EUA83yVUcAAm0WK?format=jpg&name=large");
+
+  height: 75%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.parallax8 {
+  background-image: url("https://i.imgur.com/pZlI2ni.jpg");
+
+  height: 75%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
 
 
 
