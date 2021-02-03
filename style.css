@@ -248,9 +248,7 @@ button:hover {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
-
-}
+  background-size: cover;}
 
 .parallax2 {
   background-image: url("https://raw.githubusercontent.com/fewnew/art74-fall2019/master/small-assignments/01-anaglyph/Tiffany_Chen_Anaglyph.jpg");
@@ -259,9 +257,7 @@ button:hover {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
-
-}
+  background-size: cover;}
 
 .parallax3 {
   background-image: url("https://pbs.twimg.com/media/EIocUa1UUAATfkZ?format=jpg&name=4096x4096");
@@ -270,9 +266,7 @@ button:hover {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
-
-}
+  background-size: cover;}
 
 .parallax6 {
   background-image: url("https://i.imgur.com/gF7rUzT.jpg");
@@ -281,9 +275,7 @@ button:hover {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
-
-}
+  background-size: cover;}
 
 .parallax4 {
   background-image: url("https://pbs.twimg.com/media/EIp1xzbW4AE6w2b?format=jpg&name=4096x4096");
@@ -292,9 +284,7 @@ button:hover {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
-
-}
+  background-size: cover;}
 
 .parallax5 {
   background-image: url("https://i.imgur.com/6UuSQNy.png");
@@ -303,9 +293,8 @@ button:hover {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;}
 
-}
 
 .parallax7 {
   background-image: url("https://pbs.twimg.com/media/EUA83yVUcAAm0WK?format=jpg&name=large");
@@ -314,9 +303,7 @@ button:hover {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
-
-}
+  background-size: cover;}
 
 .parallax8 {
   background-image: url("https://i.imgur.com/pZlI2ni.jpg");
@@ -325,9 +312,9 @@ button:hover {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;}
 
-}
+
 
 
 
