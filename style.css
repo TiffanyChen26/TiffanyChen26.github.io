@@ -314,6 +314,25 @@ button:hover {
   background-repeat: no-repeat;
   background-size: cover;}
 
+.parallax9 {
+	background-image: url("https://pbs.twimg.com/media/FMZSVFeVEAM32B1?format=jpg&name=medium");
+
+	height: 75%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;}
+}
+
+.parallax10 {
+	background-image: url("");
+
+	height: 75%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;}
+}
 
 
 
