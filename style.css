@@ -38,6 +38,47 @@ body {
 	text-align: center;
 }
 
+.container2 {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #b0cbf7;
+}
+
+.container2:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 50px;
+	font-family: 'Poiret One', cursive;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
 h1 {
 	font-weight: 300;
 }
@@ -268,15 +309,6 @@ button:hover {
   background-repeat: no-repeat;
   background-size: cover;}
 
-.parallax6 {
-  background-image: url("https://i.imgur.com/gF7rUzT.jpg");
-
-  height: 75%;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;}
-
 .parallax4 {
   background-image: url("https://pbs.twimg.com/media/EIp1xzbW4AE6w2b?format=jpg&name=4096x4096");
 
@@ -287,7 +319,7 @@ button:hover {
   background-size: cover;}
 
 .parallax5 {
-  background-image: url("https://i.imgur.com/6UuSQNy.png");
+  background-image: url("https://pbs.twimg.com/media/FTKptcTUYAA2oGB?format=jpg&name=900x900");
 
   height: 75%;
   background-attachment: fixed;
@@ -295,6 +327,14 @@ button:hover {
   background-repeat: no-repeat;
   background-size: cover;}
 
+	.parallax6 {
+	  background-image: url("https://pbs.twimg.com/media/FTKpnLIUEAAwxjD?format=jpg&name=900x900");
+
+	  height: 75%;
+	  background-attachment: fixed;
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;}
 
 .parallax7 {
   background-image: url("https://pbs.twimg.com/media/EUA83yVUcAAm0WK?format=jpg&name=large");
