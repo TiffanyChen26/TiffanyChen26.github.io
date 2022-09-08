@@ -185,6 +185,13 @@ p {
   font-family: 'Poiret One', cursive;
 }
 
+p2 {
+	text-align: left;
+  font-size: 1.5em;
+  color: #b1bfc9;
+  font-family: 'Courier New';
+}
+
 h2 {
   text-align: center;
   font-size: 3em;
